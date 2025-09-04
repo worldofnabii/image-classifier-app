@@ -1,6 +1,4 @@
-flask
+streamlit
 torch
 transformers
 pillow
-streamlit
-requests
