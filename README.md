@@ -9,7 +9,7 @@ It is built with:
 
 
 # Live Demo
-Try it out here: [Streamlit Cloud App](https://share.streamlit.io/Worldofnabii/image-classifier-app/main/frontend.py)  
+Try it out here: [Streamlit Cloud App](https://image-classifier-appgit-4bpbacgdxegkqhvhwafv99.streamlit.app/)  
 
 
 # Project Structure
