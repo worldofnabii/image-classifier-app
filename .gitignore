@@ -1,0 +1,14 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore local uploads folder
+uploads/
+
+# Ignore old backend files (kept locally but not in GitHub)
+app.py
+detector.py
+
+# Ignore virtual environments
+venv/
+.env
