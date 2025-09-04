@@ -20,7 +20,7 @@ ImageSegmentation/
 └── README.md # Project description
 
 
-## ⚙️ Setup & Installation (Run Locally)
+## Setup & Installation (Run Locally)
 1. Clone this repository:
    ```bash
    git clone https://github.com/Worldofnabii/image-classifier-app.git
