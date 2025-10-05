@@ -12,3 +12,6 @@ detector.py
 # Ignore virtual environments
 venv/
 .env
+
+#Ignore SQLite
+predictions.db
