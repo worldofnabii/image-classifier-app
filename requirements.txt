@@ -3,4 +3,5 @@ torch
 transformers
 pillow
 python-dotenv
+mysql-connector-python
 
