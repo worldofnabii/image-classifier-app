@@ -2,3 +2,5 @@ streamlit
 torch
 transformers
 pillow
+python-dotenv
+
